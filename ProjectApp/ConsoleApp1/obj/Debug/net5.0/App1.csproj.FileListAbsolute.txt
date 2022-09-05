@@ -1,0 +1,16 @@
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\bin\Debug\net5.0\App1.exe
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\bin\Debug\net5.0\App1.deps.json
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\bin\Debug\net5.0\App1.runtimeconfig.json
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\bin\Debug\net5.0\App1.runtimeconfig.dev.json
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\bin\Debug\net5.0\App1.dll
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\bin\Debug\net5.0\App1.pdb
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.csproj.AssemblyReference.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.AssemblyInfoInputs.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.AssemblyInfo.cs
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.csproj.CoreCompileInputs.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.dll
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\refint\App1.dll
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.pdb
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\App1.genruntimeconfig.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp1\obj\Debug\net5.0\ref\App1.dll

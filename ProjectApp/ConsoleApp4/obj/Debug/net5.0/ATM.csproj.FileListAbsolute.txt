@@ -1,0 +1,16 @@
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\bin\Debug\net5.0\ATM.exe
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\bin\Debug\net5.0\ATM.deps.json
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\bin\Debug\net5.0\ATM.runtimeconfig.json
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\bin\Debug\net5.0\ATM.runtimeconfig.dev.json
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\bin\Debug\net5.0\ATM.dll
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\bin\Debug\net5.0\ATM.pdb
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.csproj.AssemblyReference.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.AssemblyInfoInputs.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.AssemblyInfo.cs
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.csproj.CoreCompileInputs.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.dll
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\refint\ATM.dll
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.pdb
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ATM.genruntimeconfig.cache
+D:\Software University\Csharp-Education\Csharp-Education\CSharp-Technology-FUNDAMENTALS\Regular Expressions - Exercise\ProjectApp\ConsoleApp4\obj\Debug\net5.0\ref\ATM.dll
