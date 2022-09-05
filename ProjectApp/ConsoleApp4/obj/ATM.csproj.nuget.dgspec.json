@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software University\\Csharp-Education\\Csharp-Education\\CSharp-Technology-FUNDAMENTALS\\Regular Expressions - Exercise\\ProjectApp\\ConsoleApp4\\ATM.csproj": {}
+    "D:\\Software University\\BasicATMProject\\ProjectApp\\ConsoleApp4\\ATM.csproj": {}
   },
   "projects": {
-    "D:\\Software University\\Csharp-Education\\Csharp-Education\\CSharp-Technology-FUNDAMENTALS\\Regular Expressions - Exercise\\ProjectApp\\ConsoleApp4\\ATM.csproj": {
+    "D:\\Software University\\BasicATMProject\\ProjectApp\\ConsoleApp4\\ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software University\\Csharp-Education\\Csharp-Education\\CSharp-Technology-FUNDAMENTALS\\Regular Expressions - Exercise\\ProjectApp\\ConsoleApp4\\ATM.csproj",
+        "projectUniqueName": "D:\\Software University\\BasicATMProject\\ProjectApp\\ConsoleApp4\\ATM.csproj",
         "projectName": "ATM",
-        "projectPath": "D:\\Software University\\Csharp-Education\\Csharp-Education\\CSharp-Technology-FUNDAMENTALS\\Regular Expressions - Exercise\\ProjectApp\\ConsoleApp4\\ATM.csproj",
+        "projectPath": "D:\\Software University\\BasicATMProject\\ProjectApp\\ConsoleApp4\\ATM.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Software University\\Csharp-Education\\Csharp-Education\\CSharp-Technology-FUNDAMENTALS\\Regular Expressions - Exercise\\ProjectApp\\ConsoleApp4\\obj\\",
+        "outputPath": "D:\\Software University\\BasicATMProject\\ProjectApp\\ConsoleApp4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

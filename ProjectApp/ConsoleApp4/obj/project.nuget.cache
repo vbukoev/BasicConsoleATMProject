@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Su/yTGiRrwfIiiT/xVDd1eKfnphwbl0zL5agwYE4GrJUv7q1Webx1Jcyj2D7igLVT/8J3nruX+XiNYFLbGXQbg==",
+  "dgSpecHash": "bbEq8Mw75WK1HzQG8rAN4+w5JypKLCJw3BU4lpW7GlCRTPfyJwLGPA2vcDid84lcZezlKonG+ZGcPHwR3Iai5g==",
   "success": true,
-  "projectFilePath": "D:\\Software University\\Csharp-Education\\Csharp-Education\\CSharp-Technology-FUNDAMENTALS\\Regular Expressions - Exercise\\ProjectApp\\ConsoleApp4\\ATM.csproj",
+  "projectFilePath": "D:\\Software University\\BasicATMProject\\ProjectApp\\ConsoleApp4\\ATM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
