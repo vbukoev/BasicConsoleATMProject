@@ -81,7 +81,7 @@ public class cardHolder
         {
             Console.WriteLine("How much money would you like to withdraw: ");
             double withdrawal = Double.Parse(Console.ReadLine());
-            if (currentUser.getBalance() > withdrawal)
+            if (currentUser.getBalance() > withdrawal) // here may be a mistake !!!
             {
                 Console.WriteLine("Insufficient balance!");
             }                
@@ -97,6 +97,7 @@ public class cardHolder
         }
 
         List<cardHolder> cardHolders = new List<cardHolder>();
+
         // database with cardHolders
         cardHolders.Add(new cardHolder("4124384718598783", 1234, "Tamika", "Williamson", 1432.43));
         cardHolders.Add(new cardHolder("4572828901388201", 9832, "Rosa", "Oyler", 32413.73));
