@@ -39,6 +39,7 @@ public class cardHolder
     {
         return balance;
     }
+
     //setters
     public void setNum(String newNum)
     {
